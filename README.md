@@ -3,7 +3,7 @@
  I will mention parametric and non-parametric multivariate hypothesis tests for the Erasmus+ Staff Teaching program in Nitra, Slovakia.
  We will use the PISA Example dataset to perform these hypothesis tests. 
 
-This dataset consists of five columns (variables) and 1500 rows (students) for five different countries (Slovakia, Czechia, Türkiye, France, and Italy).
+This dataset consists of five columns (variables) and 1500 rows (students) for five different countries (Switzerland, Czechia, Türkiye, France, and Italy).
 We randomly sample 300 students for each country. Our variables are below:
 
 - Nation
